@@ -1,4 +1,4 @@
-# Cardiovascular-Risk-Prediction--Viral-Shewale
+# Cardiovascular-Risk-Prediction
 
 ## Abstract:
 * Cardiovascular disease (CVD) is a group of disorders of the heart and blood vessels and includes coronary heart disease, cerebrovascular disease, rheumatic heart disease and other conditions.
