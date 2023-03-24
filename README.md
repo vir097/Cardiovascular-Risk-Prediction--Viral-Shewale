@@ -96,6 +96,6 @@
 * Predicting the risk of coronary heart disease is critical for reducing fatalities caused by this illness. We can avert deaths by taking the required medications and precautions if we can foresee the danger of this sickness ahead of time.
 * It is critical that the model we develop has a high recall score. It is OK if the model incorrectly identifies a healthy patient as a high risk patient because it will not result in death, but if a high risk patient is incorrectly labelled as healthy, it may result in fatality.
 * We were able to create a model with a recall of just 0.80 because of lack of data and limitations in computational power availability.
-* Recall of 0.80 indicates that out of 100 individuals with the illness, our model will be able to classify only 77 as high risk patients, while the remaining 20 will be misclassified.
+* Recall of 0.80 indicates that out of 100 individuals with the illness, our model will be able to classify only 80 as high risk patients, while the remaining 20 will be misclassified.
 * Future developments must include a strategy to improve the model recall score, enabling us to save even more lives from this disease.
 * This may include more such studies, and collect more data. Include more people with hypertension, diabetes, BP medication, etc to better understand the effect of these disease on the risk of CHD. Also, with better computational abilities, it will be possible to get the best hyperparameters that yield the best predictions.
